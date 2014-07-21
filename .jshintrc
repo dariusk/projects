@@ -1,0 +1,24 @@
+{
+  "curly": true,
+  "eqeqeq": true,
+  "immed": true,
+  "latedef": true,
+  "newcap": true,
+  "noarg": true,
+  "sub": true,
+  "undef": true,
+  "unused": true,
+  "boss": true,
+  "eqnull": true,
+  "node": true,
+  "quotmark": "single",
+  "-W065": true,
+  "globals": {
+    "Miso": true,
+    "window": true,
+    "$": true,
+    "_": true,
+    "key": true,
+    "unescape": true
+  }
+}
