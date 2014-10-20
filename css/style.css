@@ -4,6 +4,10 @@ body {
   max-width: 900px;
   line-height: 1.4em;
 }
+.header a {
+  color: rgba(0,0,0,0.5);
+  text-decoration: none;
+}
 h1 {
 }
 h2 {
